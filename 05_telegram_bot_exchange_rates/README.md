@@ -3,7 +3,7 @@
 > Note: `before runnning change TELEGRAM_BOT_TOKEN values in app or through .env.`
 
 ```
-TELEGRAM_BOT_TOKEN = 'your telegram chat id'
+TELEGRAM_BOT_TOKEN = 'your telegram bot token'
 ```
 
 # Run
